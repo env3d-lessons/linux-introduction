@@ -1,4 +1,3 @@
-
 # Linux Introduction
 
 We are going to be practicing some basic linux commands.  First, you’ll need a machine to practice some of the Linux commands you’ll be learning.  While the video tutorial uses GitHub codespaces for this purpose, we will be using a custom linux machine that I have prepared to do our work.  
