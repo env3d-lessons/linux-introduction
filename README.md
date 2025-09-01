@@ -30,10 +30,10 @@ NOTE: To complete this exercise, you will also be required to create text files 
 
 3. `cd` into your local git repo directory.  All subsequent work will be done inside this directory.
 
-4. Use the curl command to download the one-year historical price of TSLA stock from yahoo finance.
+4. Use the curl command to download the one-year historical price of TSLA from https://learn.operatoroverload.com/~jmadar/stock/symbol.sh?TSLA.
 Name this file TSLA.csv and put it in your home directory.
 
-5. Use the sqlite3 command in the current directory (where you saved the TSLA.csv file).
+6. Use the sqlite3 command in the current directory (where you saved the TSLA.csv file).
 Create the database (named the file tesla.db) with the following command inside the schema.sql file.
 
 ```
